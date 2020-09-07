@@ -14,7 +14,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootMybatisApplication {
 
 	public static void main(String[] args) {
-		System.out.println("111");
+		System.out.println("1112222");
 		SpringApplication.run(SpringBootMybatisApplication.class, args);
 	}
 }
